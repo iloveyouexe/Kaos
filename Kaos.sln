@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaos", "Kaos\Kaos.csproj", "{0B028CEB-4179-4683-9314-B416C9AF4700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaos.Api", "Kaos.Api\Kaos.Api.csproj", "{28CE7F7A-355C-41F6-93FF-BE8EF5AECD2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B028CEB-4179-4683-9314-B416C9AF4700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B028CEB-4179-4683-9314-B416C9AF4700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B028CEB-4179-4683-9314-B416C9AF4700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B028CEB-4179-4683-9314-B416C9AF4700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CE7F7A-355C-41F6-93FF-BE8EF5AECD2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CE7F7A-355C-41F6-93FF-BE8EF5AECD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CE7F7A-355C-41F6-93FF-BE8EF5AECD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CE7F7A-355C-41F6-93FF-BE8EF5AECD2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
