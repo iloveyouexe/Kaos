@@ -1,5 +1,25 @@
-<h3>NavBar</h3>
+﻿@inject HttpClient Http
+
+<header class="app-header">
+    <div class="sidebar" style="background: black;">
+        <div class="weCanLaughAboutIt">
+            <pre style="font-size: .05em; margin-right: auto;">@asciiArtContent</pre>
+        </div>
+        
+        <nav class="nav-links">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">Home</NavLink>
+            <NavLink class="nav-link" href="Blog">Blog</NavLink>
+            <NavLink class="nav-link" href="Code">Code</NavLink>
+            <NavLink class="nav-link" href="About">About</NavLink>
+        </nav>
+    </div>
+</header>
 
 @code {
-    
+    private string asciiArtContent = "";
+
+    protected override async Task OnInitializedAsync()
+    {
+        asciiArtContent = await Http.GetStringAsync("data/maple.txt");
+    }
 }

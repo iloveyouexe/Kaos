@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Source\\Kaos\\Kaos\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Source\\Kaos\\Kaos\\obj\\Debug\\net8.0\\compressed\\bbljq88owd.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Source\\Kaos\\Kaos\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Kaos.styles.css",
+      "PackagePath": "staticwebassets\\Kaos.styles.css"
+    },
+    {
+      "Id": "D:\\Source\\Kaos\\Kaos\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Source\\Kaos\\Kaos\\wwwroot\\data\\maple.txt",
+      "PackagePath": "staticwebassets\\data\\maple.txt"
+    },
+    {
+      "Id": "D:\\Source\\Kaos\\Kaos\\wwwroot\\data\\weather.json",
+      "PackagePath": "staticwebassets\\data\\weather.json"
+    },
+    {
+      "Id": "D:\\Source\\Kaos\\Kaos\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Source\\Kaos\\Kaos\\wwwroot\\img\\icon-192.png",
+      "PackagePath": "staticwebassets\\img\\icon-192.png"
+    },
+    {
+      "Id": "D:\\Source\\Kaos\\Kaos\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Kaos.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Kaos.props",
+      "PackagePath": "build\\Kaos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Kaos.props",
+      "PackagePath": "buildMultiTargeting\\Kaos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Kaos.props",
+      "PackagePath": "buildTransitive\\Kaos.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

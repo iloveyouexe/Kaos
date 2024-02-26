@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uT/DQtvlGWyyYoUy2dcqd3qXhRIC4fvYcJUywOG4S5Y=",
+  "Source": "Kaos.Api",
+  "BasePath": "_content/Kaos.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
